@@ -1,1 +1,2 @@
 This is text, testing out GitHub for the first time!
+This is a new line to test out committing from VS Code.
